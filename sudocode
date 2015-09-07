@@ -1,0 +1,10 @@
+Search array for largest disparity between a first number and second number
+
+choose a number from each array slot starting from the first
+	compare to all numbers after it
+		note the largest upward mobility for that position in the array and it's corresponding sell position
+			compare to all previous recorded disparity and store if it is the largest
+
+print the resulting array and profit
+
+
